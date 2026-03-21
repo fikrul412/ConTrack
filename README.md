@@ -76,3 +76,4 @@ python main.py mark -t Title -i Task1 -as 1
 * Merge duplicate functions
 * Add error handling
 * Add `--help`
+* There's a bug when completing all items in the title :)
